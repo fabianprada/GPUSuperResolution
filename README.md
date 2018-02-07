@@ -8,7 +8,9 @@ Run the example as:
 
 GPUSuperResolution.exe tiger.png
 
+You can watch a demo of the provided interface from:
 
+http://www.cs.jhu.edu/~fpradan1/code/
 
 
 
